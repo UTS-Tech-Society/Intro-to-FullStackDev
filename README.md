@@ -1,2 +1,2 @@
 # Intro-to-FullStackDev
-The repo for the Intro to Full Stack Development workshop - running in Spring 2021!
+The repo for the completed demo at our Intro to Full Stack Development workshop!
